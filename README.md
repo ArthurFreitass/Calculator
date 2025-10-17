@@ -31,8 +31,21 @@ O objetivo foi praticar **lógica de programação**, **manipulação de DOM** e
 
 ---
 
-## 🖼️ Prévia do Projeto
-*(adicione uma imagem do projeto após o upload)*  
-Exemplo:  
+1. Baixe o repositório:
+   ```bash
+   git clone https://github.com/ArthurFreitass/Calculator.git
+
+Acesse a pasta do projeto:
+cd Calculator
+
+
+---
+
+## 📂 Estrutura de Pastas
 ```markdown
-![Calculadora Preview](img/preview.png)
+📁 Calculator
+├── index.html
+├── style.css
+└── script.js
+
+
