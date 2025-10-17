@@ -1,7 +1,7 @@
 # 🧮 Calculadora Simples — HTML, CSS e JavaScript
 
 ## 📖 Sobre o Projeto
-Este é um **mini projeto de calculadora funcional** desenvolvida com **HTML**, **CSS** e **JavaScript puro**, criado durante meus estudos no **SENAI**.  
+Este é um **mini projeto de calculadora funcional** desenvolvida com **HTML**, **CSS** e **JavaScript puro**, criado durante meus estudos.  
 O objetivo foi praticar **lógica de programação**, **manipulação de DOM** e **estilização moderna** com um design **dark minimalista**.
 
 ---
